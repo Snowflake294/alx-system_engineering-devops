@@ -1,2 +1,2 @@
 #!/bin/bash
- chmod ugo+x hellos Everybody
+ chmod ugo+x hello
