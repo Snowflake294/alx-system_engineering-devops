@@ -1,1 +1,2 @@
-#!/bin/bash\n sort | uniq -u
+#!/bin/bash
+ cat list C#
